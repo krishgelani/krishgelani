@@ -74,7 +74,7 @@
   <img src="https://streak-stats.demolab.com?user=krishgelani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-repo.vercel.app?username=krishgelani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
+<br/>
 <div align="center">
   <img src="https://profile-counter.deno.dev/krishgelani/count.svg?"  />
 </div>
